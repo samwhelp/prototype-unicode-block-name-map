@@ -52,9 +52,9 @@ $ composer map
 
 將下面三個檔，重新做對應
 
-* asset/Po/Des/gucharmap.po
-* asset/Po/Des/kdelibs4.po
-* asset/Po/Des/dialog.po
+* asset/Po/Src/gucharmap.po
+* asset/Po/Src/kdelibs4.po
+* asset/Po/Src/dialog.po
 
 然後產生
 
