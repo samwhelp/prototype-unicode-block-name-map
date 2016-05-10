@@ -65,7 +65,7 @@ class PoFile extends \Ubn\Base\Object {
 	protected $_IndexMap = array();
 	protected $_Data = array();
 
-	protected $_SrcFilePath = The_UnicodeBlockName_Json_File_Path;
+	protected $_SrcFilePath = '/tmp/src.po';
 	public function setSrcFilePath($val)
 	{
 		$this->_SrcFilePath = $val;
@@ -73,7 +73,7 @@ class PoFile extends \Ubn\Base\Object {
 		return $this;
 	}
 
-	protected $_DesFilePath = The_UnicodeBlockName_Json_File_Path;
+	protected $_DesFilePath = '/tmp/des.po';
 	public function setDesFilePath($val)
 	{
 		$this->_DesFilePath = $val;
