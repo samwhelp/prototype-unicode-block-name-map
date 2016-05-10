@@ -1,0 +1,23 @@
+{
+    "name": "samwhelp/prototype-unicode-block-name-map",
+    "description": "unicode-block-name-map",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "samwhelp",
+            "email": "samwhelp@users.noreply.github.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Ubn\\": "src/Ubn/"
+        }
+    },
+    "require": {},
+	"scripts": {
+        "map": "bin/map.php",
+		"json": "bin/json.php"
+    }
+
+}
