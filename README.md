@@ -78,4 +78,4 @@ $ composer map
 
 * asset/Po/Src/gucharmap.po ([gucharmap](http://packages.ubuntu.com/source/xenial/gucharmap)) ([更多說明](http://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=352130#forumpost352130))
 * asset/Po/Src/kdelibs4.po ([kde-l10n-zhtw](http://packages.ubuntu.com/source/xenial/kde-l10n-zhtw)) ([更多說明](http://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=352138#forumpost352138))
-* asset/Po/Src/dialog.po ([libreoffice-l10n-zh-tw](http://packages.ubuntu.com/xenial/libreoffice-l10n-zh-tw)) ([更多說明](http://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=352140#forumpost352140))
+* asset/Po/Src/dialog.po ([libreoffice-l10n](http://packages.ubuntu.com/source/xenial/libreoffice-l10n)) ([更多說明](http://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=352140#forumpost352140))
