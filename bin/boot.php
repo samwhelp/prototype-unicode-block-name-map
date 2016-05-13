@@ -10,4 +10,5 @@
 	define('The_UnicodeBlockName_Dir_Path', The_Asset_Dir_Path . '/UnicodeBlockName');
 	define('The_UnicodeBlockName_Msgid_File_Path', The_UnicodeBlockName_Dir_Path . '/msgid.txt');
 	define('The_UnicodeBlockName_Msgstr_File_Path', The_UnicodeBlockName_Dir_Path . '/msgstr.txt');
-	define('The_UnicodeBlockName_Json_File_Path', The_UnicodeBlockName_Dir_Path . '/map.json');
+	define('The_UnicodeBlockName_Map_File_Path', The_UnicodeBlockName_Dir_Path . '/map.json');
+	define('The_UnicodeBlockName_MapAlias_File_Path', The_UnicodeBlockName_Dir_Path . '/map-alias.json');

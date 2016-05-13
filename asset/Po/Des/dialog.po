@@ -5497,7 +5497,7 @@ msgctxt ""
 "RID_SUBSETSTR_NKO\n"
 "string.text"
 msgid "Nko"
-msgstr "Nko 西非書面文"
+msgstr "西非曼德語族書面文字"
 
 #: ucsubset.src
 msgctxt ""

@@ -20,7 +20,7 @@ class TextToJson extends \Ubn\Base\Object {
 			$map[$key] = $val;
 		}
 
-		file_put_contents($this->_JsonFilePath, json_encode($map));
+		file_put_contents($this->_MapFilePath, json_encode($map));
 
 
 	}
@@ -41,10 +41,10 @@ class TextToJson extends \Ubn\Base\Object {
 		return $this;
 	}
 
-	protected $_JsonFilePath = The_UnicodeBlockName_Json_File_Path;
-	public function setJsonFilePath($val)
+	protected $_MapFilePath = The_UnicodeBlockName_Map_File_Path;
+	public function setMapFilePath($val)
 	{
-		$this->_JsonFilePath = $val;
+		$this->_MapFilePath = $val;
 
 		return $this;
 	}
